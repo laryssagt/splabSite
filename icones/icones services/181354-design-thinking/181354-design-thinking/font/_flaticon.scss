@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 27/07/2016 08:06
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-anchor:before { content: "\f100"; }
+.flaticon-architecture:before { content: "\f101"; }
+.flaticon-brainstorm:before { content: "\f102"; }
+.flaticon-chat:before { content: "\f103"; }
+.flaticon-comparison:before { content: "\f104"; }
+.flaticon-copyright:before { content: "\f105"; }
+.flaticon-design-tool:before { content: "\f106"; }
+.flaticon-flowchart:before { content: "\f107"; }
+.flaticon-graphic-design:before { content: "\f108"; }
+.flaticon-graphic-design-1:before { content: "\f109"; }
+.flaticon-graphic-design-2:before { content: "\f10a"; }
+.flaticon-graphic-design-3:before { content: "\f10b"; }
+.flaticon-graphic-design-4:before { content: "\f10c"; }
+.flaticon-graphic-design-5:before { content: "\f10d"; }
+.flaticon-graphic-tool:before { content: "\f10e"; }
+.flaticon-grid:before { content: "\f10f"; }
+.flaticon-idea:before { content: "\f110"; }
+.flaticon-idea-1:before { content: "\f111"; }
+.flaticon-innovation:before { content: "\f112"; }
+.flaticon-management:before { content: "\f113"; }
+.flaticon-pantone:before { content: "\f114"; }
+.flaticon-perspective:before { content: "\f115"; }
+.flaticon-pros-and-cons:before { content: "\f116"; }
+.flaticon-sketchbook:before { content: "\f117"; }
+.flaticon-smartphone:before { content: "\f118"; }
+.flaticon-storyboard:before { content: "\f119"; }
+.flaticon-tablet:before { content: "\f11a"; }
+.flaticon-vector:before { content: "\f11b"; }
+.flaticon-web-design:before { content: "\f11c"; }
+.flaticon-work-station:before { content: "\f11d"; }
+    
+    $font-Flaticon-anchor: "\f100";
+    $font-Flaticon-architecture: "\f101";
+    $font-Flaticon-brainstorm: "\f102";
+    $font-Flaticon-chat: "\f103";
+    $font-Flaticon-comparison: "\f104";
+    $font-Flaticon-copyright: "\f105";
+    $font-Flaticon-design-tool: "\f106";
+    $font-Flaticon-flowchart: "\f107";
+    $font-Flaticon-graphic-design: "\f108";
+    $font-Flaticon-graphic-design-1: "\f109";
+    $font-Flaticon-graphic-design-2: "\f10a";
+    $font-Flaticon-graphic-design-3: "\f10b";
+    $font-Flaticon-graphic-design-4: "\f10c";
+    $font-Flaticon-graphic-design-5: "\f10d";
+    $font-Flaticon-graphic-tool: "\f10e";
+    $font-Flaticon-grid: "\f10f";
+    $font-Flaticon-idea: "\f110";
+    $font-Flaticon-idea-1: "\f111";
+    $font-Flaticon-innovation: "\f112";
+    $font-Flaticon-management: "\f113";
+    $font-Flaticon-pantone: "\f114";
+    $font-Flaticon-perspective: "\f115";
+    $font-Flaticon-pros-and-cons: "\f116";
+    $font-Flaticon-sketchbook: "\f117";
+    $font-Flaticon-smartphone: "\f118";
+    $font-Flaticon-storyboard: "\f119";
+    $font-Flaticon-tablet: "\f11a";
+    $font-Flaticon-vector: "\f11b";
+    $font-Flaticon-web-design: "\f11c";
+    $font-Flaticon-work-station: "\f11d";
