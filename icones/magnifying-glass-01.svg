@@ -3,7 +3,7 @@
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 62 62" style="enable-background:new 0 0 62 62;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#263776;}
+	.st0{fill:#203F80;}
 	.st1{fill:#FFFFFF;}
 </style>
 <rect class="st0" width="62" height="62"/>
@@ -12,4 +12,6 @@
 		c3,0,5.8-1.1,8-3l6.9,6.9c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.4-0.1,0.6-0.3C45.3,44.7,45.3,44.1,45,43.8z M18.5,28.9
 		c0-5.8,4.7-10.4,10.4-10.4c5.8,0,10.4,4.7,10.4,10.4s-4.7,10.5-10.4,10.5C23.1,39.4,18.5,34.7,18.5,28.9z"/>
 </g>
+<image style="overflow:visible;" width="465" height="478" xlink:href="Simb splab cor.png"  transform="matrix(0.24 0 0 0.24 -231 -114.72)">
+</image>
 </svg>
